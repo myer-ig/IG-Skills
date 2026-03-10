@@ -19,6 +19,14 @@ Browse the existing skills to understand patterns and naming conventions before 
 | [ig/account](skills/ig/account/) | View balances and transaction history |
 | [ig/watchlist](skills/ig/watchlist/) | Create and manage watchlists |
 
+## Building Agents
+
+See [AGENTS.md](AGENTS.md) for integration guides covering:
+- Authentication flow
+- Framework examples (Claude MCP, LangChain, CrewAI)
+- Safety requirements
+- Rate limits and error handling
+
 ## Contribution
 
 We welcome contributions.
